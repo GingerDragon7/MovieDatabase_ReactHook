@@ -19,7 +19,7 @@ A cool text Editor
 An API key from OMDB (You can obtain it here or use mine)
 
 ** 
-
+https://shubham0794x.github.io/MovieDatabase_ReactHook/
 
 ## Scripts
 
